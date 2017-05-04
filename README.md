@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
+
+
+### These are my notes of some important topics :
+
+[Information Theory](https://github.com/HuXiangkun/HuXiangkun.github.io/Information_Theory/Information_Theory.html)
 
 You can use the [editor on GitHub](https://github.com/HuXiangkun/HuXiangkun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
