@@ -1,8 +1,7 @@
-## Welcome to My Blog
+# These are my notes of some important topics :
 
+## [Analysis](huxiangkun.github.io/Information_Theory/Information_Theory.html)
 
-### These are my notes of some important topics :
+## [Information Theory](huxiangkun.github.io/Information_Theory/Information_Theory.html)
 
-#### [Analysis](https://huxiangkun.github.io/Information_Theory/Information_Theory.html)
-
-#### [Information Theory](https://huxiangkun.github.io/Information_Theory/Information_Theory.html)
+## [Probability](huxiangkun.github.io/Math/Probability.md)
