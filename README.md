@@ -1,6 +1,6 @@
 # These are my notes of some important topics :
 
-## [Analysis](Information_Theory/Information_Theory.html)
+## [Analysis](Math/Analysis.html)
 
 ## [Information Theory](Information_Theory/Information_Theory.html)
 
